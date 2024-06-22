@@ -21,9 +21,9 @@ let addressesnotlsapi = [
 	'https://raw.githubusercontent.com/zxymiku/sub/main/addressesapi.txt', 
 ];
 
-let DLS = 8;//速度下限
+let DLS = 1;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/zxymikusub/main/addressescsv.csv', 
+	'https://raw.githubusercontent.com/zxymiku/sub/main/addressescsv.csv', 
 ];
 
 let subconverter = "subapi-loadbalancing.pages.dev"; 
