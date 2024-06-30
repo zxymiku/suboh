@@ -23,7 +23,7 @@ let addressesnotlsapi = [
 
 let DLS = 1;//速度下限
 let addressescsv = [
-	'https://raw.githubusercontent.com/zxymiku/sub/main/addressescsv.csv', 
+	'https://raw.githubusercontent.com/zxymiku/sub/main/omg.csv', 
 ];
 
 let subconverter = "subapi-loadbalancing.pages.dev"; 
